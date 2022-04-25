@@ -1,9 +1,13 @@
 
 - Backend
-  - Prototype: https://github.com/NotReeceHarris/Prototype
+ Coded In NODEJS, Team Members: Jim James & Didien.
 
 - Frontend
-  - Jquery: https://github.com/jquery/jquery
+ Coded In HTML, CSS & JS. Team Members: Maxx & Appear.
+ 
+- Current Targets.
+ User Registration, 3 Letter Names For Vixxy Deluxe & 4 Letter Names For Free Users.
+ Badges, For Beta, Moderation, Verification, Vixxy+ & Vixxy Deluxe.
 
 - Other services
   - Discord oauth: https://discord.com/developers/docs/topics/oauth2

@@ -1,13 +1,11 @@
+# Vixxy Social: Social Media Made Better.
 
-- Backend
- Coded In NODEJS, Team Members: Jim James & Didien.
+# Official Events!
+* Alpha Release: Thu, 19 May.
+* Public Release: Thu, 30 June.
 
-- Frontend
- Coded In HTML, CSS & JS. Team Members: Maxx & Appear.
- 
-- Current Targets.
- User Registration, 3 Letter Names For Vixxy Deluxe & 4 Letter Names For Free Users.
- Badges, For Beta, Moderation, Verification, Vixxy+ & Vixxy Deluxe.
-
-- Other services
-  - Discord oauth: https://discord.com/developers/docs/topics/oauth2
+# Contact Us 
+* Discord Server - https://discord.gg/vixxy
+* Twitter Profile - https://twitter.com/vixxyuk
+* Tiktok Profile - https:/tiktok.com/@vixxyuk
+* Official Site - https://vixxy.app/home

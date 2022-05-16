@@ -7,5 +7,5 @@
 # Contact Us 
 * Discord Server - https://discord.gg/vixxy
 * Twitter Profile - https://twitter.com/vixxyuk
-* Tiktok Profile - https:/tiktok.com/@vixxyuk
+* Tiktok Profile - https://tiktok.com/@vixxyuk
 * Official Site - https://vixxy.app/home
